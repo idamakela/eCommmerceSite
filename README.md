@@ -11,8 +11,15 @@ The tech stack I will be using is:
 - JavaScript
 - State management library (Zustand or Redux, and URL state handling)
 - Mock E-com store API [DummyJSON](https://github.com/Ovi/DummyJSON)
-- Toaster library for displaying fetching errors 
+- Toaster library for displaying fetching errors
 
+### Functionality I am to learn
+
+- Recursive navbar options
+- Custom hook for fetching data
+- Global state handling
+- Better understanding of error handling
+- Reusable and readable code
 
 ## How
 
