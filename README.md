@@ -3,12 +3,15 @@ Final project for Frontend / App vocational studies at Changemakers Education.
 
 ## What
 
-This is going to be a mock e-commerce site leveraging state handling, error handling, and data fetching. The motivation behind the project is to get an insight into e-commerce platforms and to better my understanding of the above-listed technologies which is a deep dive into Frontend Development. 
+This will be a mock full-stack e-commerce site leveraging state handling, error handling, and headless CMS. The motivation behind the project is to get an insight into e-commerce platforms and to better my understanding of the above-listed technologies which is a deep dive into Frontend Development. 
 
 The tech stack I will be using is:
 - Next.js
 - Tailwind
-- JavaScript
+- TypeScript
+- Express
+- Nodemon
+- Headless CMS (Strapi or Contenful depending on their free version)
 - State management library (Zustand or Redux, and URL state handling)
 - Mock E-com store API [DummyJSON](https://github.com/Ovi/DummyJSON)
 - Toaster library for displaying fetching errors
@@ -23,7 +26,7 @@ The tech stack I will be using is:
 
 ## How
 
-I will submit a deployed E-commerce application with a minimalistic design. 
+I will submit a deployed E-commerce application with an Express server with a minimalistic design. 
 
 ### Acceptance criteria
 
@@ -52,7 +55,7 @@ I will submit a deployed E-commerce application with a minimalistic design.
 
 ### The first week
 
-Set up the project, research the technologies to be used, and start creating reusable base components and functions, including start connecting to the API
+Set up the project, research the technologies to be used, and start creating reusable base components and functions, including start populating the Headless CMS wit the API data. 
 
 ### The second week
 
