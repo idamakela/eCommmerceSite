@@ -72,5 +72,5 @@ Finish up the project and get ready for hand-in.
 
 # Notes and ideas
 
-[shadcnui components](https://www.youtube.com/watch?v=zlX0lrX2oLA&ab_channel=Joshtriedcoding)
-[Design inspo](https://se.stinegoya.com/)
+- [shadcnui components](https://www.youtube.com/watch?v=zlX0lrX2oLA&ab_channel=Joshtriedcoding)
+- [Design inspo](https://se.stinegoya.com/)
